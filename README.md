@@ -14,3 +14,5 @@ console.log("Decoded File = " + decode)
 var encode = pconf.encode(decode) //Encode
 fs.writeFileSync("encode.ini")
 ```
+# Credit
+https://github.com/JamieDavidson/PUBGMobileConfigDecrypter
